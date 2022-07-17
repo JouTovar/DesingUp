@@ -158,7 +158,6 @@ h4{
 	width: 30px;
 	color: #2E63E6;
 	font-size: 5em;
-	cursor: pointer;
 }
 
 .boton__iconofb--facebook:hover{
@@ -175,7 +174,6 @@ h4{
 	width: 30px;
 	color: #309AF0;
 	font-size: 5em;
-	cursor: pointer;
 }
 
 .boton__iconotwit--twitter:hover{
@@ -192,7 +190,6 @@ h4{
 	width: 30px;
 	color: #E6205D;
 	font-size: 5em;
-	cursor: pointer;
 }
 
 .boton__iconoinst--instagram:hover{
