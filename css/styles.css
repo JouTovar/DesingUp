@@ -1,0 +1,211 @@
+.encabezado1{
+	background-color: #ECB390;
+	width: 100vw;
+	height: 100vh;
+}
+
+h2{
+	text-align: center;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 4em;
+	color: #FCF8E8;
+	display: inline-block;
+	margin-left: 20%;
+	margin-top: 3%;
+}
+
+.navbar{
+	/*+border: 1px solid black;*/
+	display: inline-block;
+	margin-left: 30%;
+	margin-top: 3%;
+	padding: 1%;
+}
+
+.btn__terciary--Inicio{
+	display: inline-block;
+	margin: 1px;
+	padding: 1px;
+	width: 10vw;
+	height: 5vh;
+	text-align: center;
+	background-color: #94B49F;
+	color: #FCF8E8;
+	font-family: 'Mulish', sans-serif;
+	font-size: 1em;
+	border-radius: 10%;
+}
+
+.btn__terciary--Inicio:hover{
+	cursor: pointer;
+	color: #94B49F;
+	background-color: #ffffff;
+	font-size: 1.2em;
+}
+
+.btn__terciary--Proyectos{
+	display: inline-block;
+	margin: 1px;
+	padding: 1px;
+	width: 10vw;
+	height: 5vh;
+	text-align: center;
+	background-color: #94B49F;
+	color: #FCF8E8;
+	font-family: 'Mulish', sans-serif;
+	font-size: 1em;
+	border-radius: 10%;
+}
+
+.btn__terciary--Proyectos:hover{
+	cursor: pointer;
+	color: #94B49F;
+	background-color: #ffffff;
+	font-size: 1.2em;
+}
+
+.btn__terciary--Creditos{
+	display: inline-block;
+	margin: 1px;
+	padding: 1px;
+	width: 10vw;
+	height: 5vh;
+	text-align: center;
+	background-color: #94B49F;
+	color: #000000;
+	color: #FCF8E8;
+	font-family: 'Mulish', sans-serif;
+	font-size: 1em;
+	border-radius: 10%;
+}
+
+.btn__terciary--Creditos:hover{
+	cursor: pointer;
+	color: #94B49F;
+	background-color: #ffffff;
+	font-size: 1.2em;
+}
+
+/* Sección Main */
+
+h1{
+	display: inline-block;
+	position: absolute;
+	left: 30vw;
+	top: 80vh;
+	margin: 10px;
+	text-align: left;
+	font-family: 'Mulish', sans-serif;
+	font-size: 3em;
+	color: #CC5879;
+}
+
+.subtitle{
+	display: inline-block;
+	position: absolute;
+	left: 65vw;
+	top: 100vh;
+	margin: 10px;
+	text-align: left;
+	font-family: 'Mulish', sans-serif;
+	font-size: 2em;
+	color: #CC5879;
+}
+
+/* Sección Formulario */
+
+h3{
+	display: inline-block;
+	position: relative;
+	border: 3px solid #CC5879;
+	left: 70%;
+	top: 20vh;
+	text-align: center;
+	margin: 20px;
+	padding: 30px;
+	background-color: #CEE5D0;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 1.2em;
+	color: #CC5879;
+	
+}
+
+h3:hover{
+	cursor: pointer;
+	background-color: #ffffff;
+	color: ##CC5879;
+	border-color: #ffffff;
+	font-size: 1.5em;
+}
+
+/* Botones de redes sociales */
+
+h4{
+	display: inline-block;
+	position: relative;
+	top: 35vh;
+	left: 15vw;
+	font-size: 2em;
+	font-family: 'Mulish', sans-serif;
+}
+
+.boton__iconofb--facebook{
+	position: relative;
+	top: 35vh;
+	left: 20vh;
+	margin: 10px;
+	height: 30px;
+	width: 30px;
+	color: #2E63E6;
+	font-size: 5em;
+	cursor: pointer;
+}
+
+.boton__iconofb--facebook:hover{
+	cursor: pointer;
+	color: #442AEB;
+}
+
+.boton__iconotwit--twitter{
+	position: relative;
+	top: 29vh;
+	left: 40vh;
+	margin: 10px;
+	height: 30px;
+	width: 30px;
+	color: #309AF0;
+	font-size: 5em;
+	cursor: pointer;
+}
+
+.boton__iconotwit--twitter:hover{
+	cursor: pointer;
+	color: #2A7EEB;
+}
+
+.boton__iconoinst--instagram{
+	position: relative;
+	top: 23vh;
+	left: 60vh;
+	margin: 10px;
+	height: 30px;
+	width: 30px;
+	color: #E6205D;
+	font-size: 5em;
+	cursor: pointer;
+}
+
+.boton__iconoinst--instagram:hover{
+	cursor: pointer;
+	color: #EB2598;
+}
+
+.autor{
+	position: relative;
+	top: 200px;
+	left: 130px;
+	font-size: 1em;
+	font-family: 'Mulish', sans-serif;
+	color: #000000;
+
+}
